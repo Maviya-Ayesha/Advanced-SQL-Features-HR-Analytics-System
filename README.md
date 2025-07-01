@@ -13,7 +13,6 @@ Project Structure
 - set_queries.sql – UNION, INTERSECT, EXCEPT (with JOINs, filters, logic)
 - subqueries.sql – Scalar, correlated, EXISTS, NOT EXISTS, nested joins
 - procedures_blocks.sql – Procedures, DO blocks, IF-ELSE, exception handling, cursors
-- screenshots/ – (Optional screenshots from pgAdmin output)
 
 Highlights
 - Cursor-controlled attendance reporting with % calculations
